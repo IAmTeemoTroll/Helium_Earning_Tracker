@@ -9,6 +9,6 @@ Instruction:
 3) enter yr helium miner address, select you currency exchange and estimate the equiqment cost(miner, antenna, cable, outdoor box)
 4) Click Enter and voila
 
-The table doesn't show today's earning as this will cause daily avergae earning to be less precise
+The table doesn't show today's earning as this will cause daily average earning to be less precise
 
 *Refer image if needed
